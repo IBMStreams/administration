@@ -1,0 +1,33 @@
+# streams-specific excludes
+toolkit.xml
+impl/nl/include/*.h
+*.pm
+# If you want to include a perl module, do
+# !foo.pm
+
+samples/*/output
+samples/*/toolkit.xml
+
+## java excludes
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+## C++ excludes
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
