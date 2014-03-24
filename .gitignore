@@ -12,7 +12,7 @@ samples/*/toolkit.xml
 *.class
 
 # Package Files #
-*.jar
+impl/lib/*.jar
 *.war
 *.ear
 
