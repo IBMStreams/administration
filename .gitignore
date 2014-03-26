@@ -16,6 +16,7 @@ output
 *.class
 
 # Package Files #
+# comment out the following line if you put pre-compiled packages into lib 
 lib/*.jar
 impl/lib/*.jar
 *.war
