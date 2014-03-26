@@ -1,18 +1,23 @@
 # streams-specific excludes
 toolkit.xml
 impl/nl/include/*.h
-*.pm
-# If you want to include a perl module, do
-# !foo.pm
+output
 
-samples/*/output
-samples/*/toolkit.xml
+# These files are generated for C++ primative operators
+# If you want to include a perl module, after this line, do 
+# !foo.pm
+*.pm
+
+
+# exclude generated Java primitive operator model files
+*$StreamsModel.java
 
 ## java excludes
 *.class
 
 # Package Files #
-*.jar
+lib/*.jar
+impl/lib/*.jar
 *.war
 *.ear
 
