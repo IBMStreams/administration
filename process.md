@@ -20,7 +20,7 @@ The IBMStreams organization will create an initial set of committers when a repo
 
 1. Establish a good track record of contributions and have a signed individual contributor agreement in place.
 2. Be nominated by an existing committer via an Issue titled: Commiter Nomination: *persons name*
-3. Existing commiters will then vote in the Issue and 2/3 positive votes are required to be a comitter
+3. Existing commiters will then vote in the Issue and 2/3 positive votes are required to be a committer
 4. IBMStreams management committee reserves the right to revoke committer status for individuals that are deemed to not be acting in the best interests of the project.
 
 ##Process
