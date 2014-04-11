@@ -1,5 +1,5 @@
 #Contributing to IBMStreams projects
-All contributions are welcome.  Contributors are expected to conduct themselves in a professional and courteous manner.  If you want to contribute code you will be required to sign an individual contributor agreement found here: <cla url>
+All contributions are welcome.  Contributors are expected to conduct themselves in a professional and courteous manner.  If you want to contribute code you will be required to sign an individual contributor agreement found here: IBMStreams/toolkits/IBMStreams-cla-individual.pdf.
 
 Issues: all projects will use the github Issues for issue tracking.
 
