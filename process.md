@@ -7,8 +7,8 @@ The IBMStreams organization has a managing committee that oversees the projects 
 ##Proposals
 We are seeking proposals for new toolkits or operators for IBM InfoSphere Streams.  The process for a new proposal is:
 
-1. Open a new Issue in the IBMStreams/toolkits repository.  Give it a meaningful title and add the proposal label to the issue.
-2. The proposal will be discussed on the IBMStreams/toolkits wiki.  A new page will be created for each proposal request.
+1. Open a new Issue in the IBMStreams/toolkits repository.  Give it a meaningful title.
+2. The proposal will be discussed in the issue.  If a page for a more detailed writeup is needed, the wiki should be used.  
 3. Once the proposal has been discussed, there will be a vote by IBMStreams/toolkits managing committee recorded in the proposal Issue.
 4. Outcomes are:
 a) proposal accepted, new repository created and project started.
@@ -19,8 +19,8 @@ c) proposal rejected.  Proposals will be accepted for IBMStreams if they are of 
 The IBMStreams organization will create an initial set of committers when a repository/project is created.  Each repository will have a team created called *reponame*Committers and these people will have write access to the repository.   To become a committer the process is:
 
 1. Establish a good track record of contributions and have a signed individual contributor agreement in place.
-2. Be nominated by an existing committer via an Issue titled: Commiter Nomination: *persons name*
-3. Existing commiters will then vote in the Issue and 2/3 positive votes are required to be a committer
+2. Be nominated by an existing committer via an Issue titled: Commiter Nomination: *persons name* *@githubid*
+3. Existing committers will then vote in the Issue and 2/3 positive votes are required to be a committer
 4. IBMStreams management committee reserves the right to revoke committer status for individuals that are deemed to not be acting in the best interests of the project.
 
 ##Process
