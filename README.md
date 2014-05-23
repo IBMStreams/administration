@@ -1,4 +1,4 @@
-##README --  IBMStreams/toolkits
+##README --  IBMStreams/administration
 
 The IBMStreams toolkits project is an open source umbrella project focused on the development of  projects within the IBMStreams organization.
 resources for IBM InfoSphere Streams. This currently includes toolkits, samples, tutorials and utilities.  
