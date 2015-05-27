@@ -7,9 +7,9 @@ The IBMStreams organization has a managing committee that oversees the projects 
 ##Proposals
 We are seeking proposals for new toolkits or operators for IBM InfoSphere Streams.  The process for a new proposal is:
 
-1. Open a new Issue in the IBMStreams/toolkits repository.  Give it a meaningful title.
+1. Open a new Issue in the IBMStreams/administration repository.  Give it a meaningful title.
 2. The proposal will be discussed in the issue.  If a page for a more detailed writeup is needed, the wiki should be used.  
-3. Once the proposal has been discussed, there will be a vote by IBMStreams/toolkits managing committee recorded in the proposal Issue.
+3. Once the proposal has been discussed, there will be a vote by IBMStreams/adminstration managing committee recorded in the proposal Issue.
 4. Outcomes are:
 a) proposal accepted, new repository created and project started.
 b) proposal accepted, work assigned to an existing project.
