@@ -26,9 +26,9 @@ Incubation for projects is covered here: https://github.com/IBMStreams/administr
 ### Key
 * :white_check_mark: - Complete
 * :large_orange_diamond: - Partially complete
-* :red_circle: - Not complete/started or or unknown
+* :red_circle: - Not complete/started or unknown
 
 ## Instructions
 A project should have this file copied to `GRADUATION_STATUS.md` at the top-level.
 
-Projects self-refport their status though IBMStreams admins may override any status.
+Projects self-report their status though IBMStreams admins may override any status.
