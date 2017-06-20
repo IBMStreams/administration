@@ -38,7 +38,7 @@ Main branch will be called master and is considered to be deployable.  This bran
 
 Feature or work branches should be created from the main branch and given a meaningful title.  As work proceeds in these branches changes should be regularly pushed to the server in order for people to see the progress as it is being made.  Once a feature/work branch is ready to merge with the master branch a pull request should be created and the project committer(s) will review the changes and update the main branch.
 
-##Development Environment
+## Development Environment
 
 You can download the IBM InfoSphere Streams Quick Start Edition which has no charge for non-production use from here: [http://www-01.ibm.com/software/data/infosphere/streams/quick-start/downloads.html](http://www-01.ibm.com/software/data/infosphere/streams/quick-start/downloads.html)
 
